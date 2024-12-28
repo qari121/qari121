@@ -12,6 +12,7 @@
 - 💬 Ask me about **VR, AR, XR Technologies | Unity Development | Immersive Simulations**
 
 - 📫 How to reach me **waqarsaeed@gmail.com**
+- Linked in: www.linkedin.com/in/waqarsaeed533
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
