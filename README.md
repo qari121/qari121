@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Waqar Saeed</h1>
+<h1 align="center">Hi 👋, I'm Waqar </h1>
 <h3 align="center">A passionate XR/VR/AR developer with a focus on immersive experiences.</h3>
 
 - 🔭 I’m currently working on **Developing a mixed reality app for Oculus that combines AR and VR elements for interactive learning.**
