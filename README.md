@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Developing a mixed reality app for Oculus that combines AR and VR elements for interactive learning.**
 
-- 🌱 I’m currently learning **Advanced JavaScript and Three.js to push the boundaries of 3D web experiences.**
+- 🌱 I’m currently learning **DSA Basics and Adanced Concepts**
 
 - 👯 I’m looking to collaborate on **Exciting VR/AR projects, particularly in training simulations and interactive storytelling.**
 
