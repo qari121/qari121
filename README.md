@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Exciting VR/AR projects, particularly in training simulations and interactive storytelling.**
 
-- 👨‍💻 All of my projects are available at [https://waqarsaeed.com/](https://waqarsaeed.com/)
+- 👨‍💻 All of my projects are available at [https://waqarsaeed.com/](https://waqarsaeed533.com/)
 
 - 💬 Ask me about **VR, AR, XR Technologies | Unity Development | Immersive Simulations**
 
