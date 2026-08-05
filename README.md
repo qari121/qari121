@@ -1,15 +1,10 @@
 <h1 align="center">Hi 👋, I'm Waqar </h1>
-<h3 align="center">A passionate XR/VR/AR developer with a focus on immersive experiences.</h3>
+<h3 align="center">Software Engineer @Second City Housing| Unity XR Developer| XRCC 2026 Finalist | Open to UK Roles</h3>
 
-- 🔭 I’m currently working on **Developing a mixed reality app for Oculus that combines AR and VR elements for interactive learning.**
 
-- 🌱 I’m currently learning **DSA Basics and Adanced Concepts**
 
-- 👯 I’m looking to collaborate on **Exciting VR/AR projects, particularly in training simulations and interactive storytelling.**
 
-- 👨‍💻 All of my projects are available at [https://waqarsaeed.com/](https://waqarsaeed.com/)
 
-- 💬 Ask me about **VR, AR, XR Technologies | Unity Development | Immersive Simulations**
 
 - 📫 How to reach me **waqarsaeed533@gmail.com**
 - Linked in: www.linkedin.com/in/waqarsaeed533
