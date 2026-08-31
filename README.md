@@ -8,7 +8,7 @@ I build and ship mobile products end to end — app, backend, and payments.
 - 📱 **Contract developer at Jovée AR LLC**, primary developer on [**Jovée Link**](https://www.joveelink.com/) — a nail-booking marketplace live on the [App Store](https://apps.apple.com/us/app/jovee-link/id6755535426) and [Google Play](https://play.google.com/store/apps/details?id=com.joveelink.app), rated 5.0★. React Native + Expo, Firebase Cloud Functions, and a Stripe authorise-and-capture payments flow. 57 builds shipped.
 - 🏗️ **Software Developer at Second City Housing**, building a React + Supabase housing platform — a 15-state referral pipeline with Postgres row-level security and transactional data migration.
 - 🏆 **XRCC 2026 Finalist** — one of the teams selected from ~190 global submissions for the Berlin finals of the [XR Creator Con](https://www.xrcc.events/) AI+XR hackathon (partnered with Meta, Pico and Snap Spectacles), for *XRAI Medicine Companion*.
-- 🥽 **Certified Unity VR Developer** with four years of shipped XR work, including a physics feature on the Oculus Store.
+- 🥽 **Certified Unity VR Developer** with four years of XR work.
 - 🎓 MSc International Business with Data Analytics at Ulster University (Sept 2027) · BSc Economics with Data Science.
 
 **Currently going deeper on:** native Android — Kotlin and Jetpack Compose.
